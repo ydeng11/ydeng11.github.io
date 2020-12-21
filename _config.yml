@@ -8,9 +8,7 @@ subtitle: ""
 description: ""
 keywords:
 author: MutouMan
-language:
-  - en
-  - zh-tw
+language: en
 timezone: "America/New_York"
 
 # URL

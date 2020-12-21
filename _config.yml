@@ -7,9 +7,11 @@ title: Hexo
 subtitle: ""
 description: ""
 keywords:
-author: John Doe
-language: en
-timezone: ""
+author: MutouMan
+language:
+  - en
+  - zh-tw
+timezone: "America/New_York"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -98,7 +100,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

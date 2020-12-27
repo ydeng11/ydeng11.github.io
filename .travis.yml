@@ -1,13 +1,48 @@
-sudo: false
+# sudo: false
+# language: node_js
+# node_js:
+#   - 10 # use nodejs v10 LTS
+# cache: npm
+# branches:
+#   only:
+#     - master # build master branch only
+# script:
+#   - hexo generate # generate static files
+# deploy:
+#   provider: pages
+#   skip-cleanup: true
+#   github-token: $GH_TOKEN
+#   keep-history: true
+#   on:
+#     branch: master
+#   local-dir: public
+
+sudo: true
 language: node_js
-node_js:
-  - 10 # use nodejs v10 LTS
-cache: npm
+node_js: stable
+cache:
+  - pandoc
+  - hexo-cli
+  - hexo-renderer-pandoc
+install:
+  - wget ${pandoc}
+  - sudo dpkg -i pandoc*.deb
+  - npm install -g hexo-cli
+  - npm install hexo-renderer-pandoc --save
+script:
+  - hexo clean
+  - hexo g
+# after_script:
+#   - cd ./public
+#   - git init
+#   - git config user.name "ydeng11"
+#   - git config user.email "dengyujun11@gmail.com"
+#   - git add .
+#   - git commit -m "Update"
+#   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
 branches:
   only:
-    - master # build master branch only
-script:
-  - hexo generate # generate static files
+    - master
 deploy:
   provider: pages
   skip-cleanup: true

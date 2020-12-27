@@ -17,7 +17,7 @@
   <meta name="description" content="">
   <meta name="author" content="MutouMan">
   <meta name="keywords" content="">
-  <title>Hello World - Hexo</title>
+  <title>Hexo</title>
 
   <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" />
 
@@ -162,7 +162,7 @@
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
           <div class="page-header text-center fade-in-up">
-            <span class="h2" id="subtitle" title="Hello World">
+            <span class="h2" id="subtitle" title="">
               
             </span>
 
@@ -172,7 +172,7 @@
   
     <span class="post-meta">
       <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-      <time datetime="2020-12-26 23:07" pubdate>
+      <time datetime="2020-12-26 23:31" pubdate>
         December 26, 2020 pm
       </time>
     </span>
@@ -184,7 +184,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      75 字
+      631 字
     </span>
   
 
@@ -194,7 +194,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      1
+      8
        分钟
     </span>
   
@@ -224,18 +224,38 @@
         <div class="py-5" id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">Hello World</h1>
+            <h1 style="display: none"></h1>
             
             <div class="markdown-body">
-              <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+              <h5 id="概率模型"><a href="#概率模型" class="headerlink" title="概率模型"></a>概率模型</h5><p>每一个概率模型都关联着一个试验，这个试验将产生一个试验结果，该试验的所有可能结果形成样本空间。其中某些试验结果的集合被称为<strong>事件</strong>。</p>
+<p>概率模型包括了离散模型和连续模型。</p>
+<h5 id="概率律"><a href="#概率律" class="headerlink" title="概率律"></a>概率律</h5><p>在概率模型中确定了某些结果或某些结果的集合（<strong>事件</strong>）的似然程度。</p>
+<h5 id="概率三公理"><a href="#概率三公理" class="headerlink" title="概率三公理"></a>概率三公理</h5><ol>
+<li>非负性</li>
+<li>可加性</li>
+<li>归一化</li>
+</ol>
+<h5 id="概率律的性质"><a href="#概率律的性质" class="headerlink" title="概率律的性质"></a>概率律的性质</h5><p> a. 若$A \subset B$, 则$P(A)\leq P(B)$<br> b. $P(A\bigcup B) = P(A) + P(B) - P(A\bigcap B)$<br> c. $P(A\bigcup B) \leq P(A) + P(B)$<br> d. $P(A\bigcup B \bigcup C) = P(A) + P(A^c \bigcap B) + P(A^C \bigcap B^C \bigcap C)$</p>
+<h5 id="条件概率"><a href="#条件概率" class="headerlink" title="条件概率"></a>条件概率</h5><p>$P（A|B）=\frac{P(A\bigcap B)}{P(B)}$<br>条件概率是一个概率律，因此也满足概率三公理。</p>
+<h5 id="全概率定理"><a href="#全概率定理" class="headerlink" title="全概率定理"></a>全概率定理</h5><p>设$A_1, A_2, \dots,A_n$是一组互不相容的事件，形成样本空间的一个分割（每一个试验结果必定使得其中一个事件发生）。又假定对每一个$i$, $P(A_i)&gt;0$.则下列公式成立</p>
+<center>
+$$\begin{align}
+P(B) &= P(A_1\bigcap B)+\dots+P(A_n\bigcap B)
+     &= P(A_1)P(B|A_1)+\dots+P(A_n)P(B|A_n)
+\end{align}$$
+</center>        
+
+<h5 id="贝叶斯准则"><a href="#贝叶斯准则" class="headerlink" title="贝叶斯准则"></a>贝叶斯准则</h5><p>设$A_1, A_2, \dots,A_n$是一组互不相容的事件，形成样本空间的一个分割（每一个试验结果必定使得其中一个事件发生）。又假定对每一个$i$, $P(A_i)&gt;0$.则对于任何事件$B$, 只要它满足$P(B) &gt; 0$, 下列公式成立</p>
+<center>
+$$\begin{align}
+P(A_i|B) &= \frac{P(A_i)P(B|A_i)}{P(B)}
+         &= \frac{P(A_i)P(B|A_i)}{P(A_1)P(B|A_1)+\dots+P(A_n)P(B|A_n)}
+\end{align}$$
+</center>        
+
+<h5 id="独立性"><a href="#独立性" class="headerlink" title="独立性"></a>独立性</h5><p>$P(A\bigcap B）= P(A)P(B)$<br>若两个事件互不相容，就可以判定它们互相独立。若事件A和事件B互相独立，那么B发生，不会对A发生与否提供任何信息。</p>
+<h6 id="条件独立"><a href="#条件独立" class="headerlink" title="条件独立"></a>条件独立</h6><p>$P(A\bigcap B|C）= P(A|C)P(B|C)$ 称为条件独立。<br>可推导得出$P(A|B\bigcap C) = P(A|C)$, 条件独立的另一个等价定义（s.t. $P(B|C)\neq0$）</p>
+<h5 id="计数法"><a href="#计数法" class="headerlink" title="计数法"></a>计数法</h5><p>n个对象的排列：$n!$<br>n个对象中取k个对象的排列数：$\frac{n!}{(n-k)!}$<br>n个对象中取k个对象的组合数：$\tbinom{n}{k}=\frac{n!}{k!(n-k)!}$<br>n个对象分成r个组的分割数，其中第i个组具有$n_i$个对象：$\tbinom{n}{n_1,n_2,\dots,n_r}=\frac{n!}{n_1!n_2!\dots n_r!}$</p>
 
             </div>
             <hr>
@@ -255,12 +275,6 @@
                   </article>
                   <article class="post-next col-6">
                     
-                    
-                      <a href="/2020/12/20/test/">
-                        <span class="hidden-mobile">test</span>
-                        <span class="visible-mobile">Next</span>
-                        <i class="iconfont icon-arrowright"></i>
-                      </a>
                     
                   </article>
                 </div>

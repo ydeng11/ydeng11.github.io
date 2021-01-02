@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/2021/01/02/handmade%20neural%20network%20using%20numpy/</loc>
+    
+    <lastmod>2021-01-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/12/27/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E4%B8%8E%E6%A6%82%E7%8E%87/</loc>
     
     <lastmod>2021-01-02</lastmod>
@@ -60,6 +67,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/neural-network-coding/</loc>
+    <lastmod>2021-01-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/sample-space/</loc>
     <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
@@ -84,6 +98,13 @@
   
   <url>
     <loc>http://example.com/categories/feature-engineering-machine-learning/</loc>
+    <lastmod>2021-01-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/neural-network/</loc>
     <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

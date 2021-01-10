@@ -1,10 +1,12 @@
 ---
 title: Handmade Neural Network with Numpy
 date: 2021-01-02 17:00:08
-tags: neural network, coding
+tags: 
+- neural network
+- coding
 category: neural network
 mathjax: True
-index_img: https://www.woodcraft.com/media/W1siZiIsIjIwMTYvMDYvMjMvMTUvNDEvMTMvMzEyL2NhcnZpbmdfd29vZGNyYWZ0X2xvZ28uanBnIl1d/carving-woodcraft-logo.jpg
+index_img: https://raw.githubusercontent.com/ydeng11/typora_pics/master/typora20200603213936-79723.jpeg
 ---
 
 ![c75f3cc2-f37d-4b2e-a41b-1db5a335677c](https://raw.githubusercontent.com/ydeng11/typora_pics/master/typora20200603213936-79723.jpeg) This is the flow of neural network including feed forward and backpropagation. Here we used the structures in the code as an exmaple to show how the dimensions change in each layer to better understand the structures. It is obvious we can iterate the layers backward to pass derivatives and  update the gradients.

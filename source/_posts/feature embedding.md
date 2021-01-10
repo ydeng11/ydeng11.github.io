@@ -2,7 +2,9 @@
 title: Encoding in Feature Engineering
 date: 2021-01-02 13:44:11
 tags: feature engineering
-category: feature engineering, machine learning
+category:
+- feature engineering
+- machine learning
 index_img: https://sectigostore.com/blog/wp-content/uploads/2020/04/types-of-encryption-feature.jpg
 ---
 

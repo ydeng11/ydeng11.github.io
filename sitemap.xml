@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/02/16/post/</loc>
-    
-    <lastmod>2021-02-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2020/12/27/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E4%B8%8E%E6%A6%82%E7%8E%87/</loc>
     
     <lastmod>2021-02-16</lastmod>
@@ -92,6 +85,13 @@
     
   </url>
   
+  <url>
+    <loc>http://example.com/2021/02/16/1000reviews/</loc>
+    
+    <lastmod>2021-02-16</lastmod>
+    
+  </url>
+  
 
   <url>
     <loc>http://example.com/</loc>
@@ -100,27 +100,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://example.com/tags/feature-engineering/</loc>
-    <lastmod>2021-02-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/neural-network/</loc>
-    <lastmod>2021-02-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/coding/</loc>
-    <lastmod>2021-02-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://example.com/tags/opinions/</loc>
@@ -138,6 +117,27 @@
   
   <url>
     <loc>http://example.com/tags/reading/</loc>
+    <lastmod>2021-02-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/feature-engineering/</loc>
+    <lastmod>2021-02-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/neural-network/</loc>
+    <lastmod>2021-02-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/coding/</loc>
     <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -223,14 +223,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/statistics/probability/</loc>
+    <loc>http://example.com/categories/statistics/probablity/</loc>
     <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/statistics/probablity/</loc>
+    <loc>http://example.com/categories/statistics/probability/</loc>
     <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

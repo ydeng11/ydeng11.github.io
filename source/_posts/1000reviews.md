@@ -5,6 +5,7 @@ tags:
 - opinions
 - growth
 - reading
+index_img: https://raw.githubusercontent.com/ydeng11/typora_pics/master/typora20210216004201-780818.jpeg
 ---
 
 ### Steve Jobs

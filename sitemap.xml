@@ -4,91 +4,98 @@
   <url>
     <loc>http://example.com/2021/01/02/feature%20embedding/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/01/02/handmade%20neural%20network%20using%20numpy/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/02/16/post/</loc>
+    
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2020/12/27/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E4%B8%8E%E6%A6%82%E7%8E%87/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/02/15/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E8%BF%87%E7%A8%8B/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/01/02/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%B8%80%E8%88%AC%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/02/15/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E7%BB%8F%E5%85%B8%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/01/02/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%A6%BB%E6%95%A3%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/02/15/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E6%9E%81%E9%99%90%E7%90%86%E8%AE%BA/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/02/15/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/02/15/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%BF%87%E7%A8%8B%E5%92%8C%E6%B3%8A%E6%9D%BE%E8%BF%87%E7%A8%8B/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/01/02/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%B7%B1%E5%85%A5%E5%86%85%E5%AE%B9/</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/about/index.html</loc>
     
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     
   </url>
   
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,70 +103,91 @@
   
   <url>
     <loc>http://example.com/tags/feature-engineering/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/neural-network/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/coding/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/opinions/</loc>
+    <lastmod>2021-02-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/growth/</loc>
+    <lastmod>2021-02-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/reading/</loc>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/sample-space/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/markov-process/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/random-variables/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/statistic-inference/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/discrete-random-vairables/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/bayesian/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/bernoulli-and-possion-process/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -168,42 +196,42 @@
   
   <url>
     <loc>http://example.com/categories/feature-engineering/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/neural-network/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/statistics/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/feature-engineering/machine-learning/</loc>
-    <lastmod>2021-02-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/statistics/probablity/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/statistics/probability/</loc>
-    <lastmod>2021-02-15</lastmod>
+    <lastmod>2021-02-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/statistics/probablity/</loc>
+    <lastmod>2021-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
